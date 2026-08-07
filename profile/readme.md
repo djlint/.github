@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  djLint understands HTML <em>and</em> the template syntax inside it, with profiles for Django, Jinja, Twig, Nunjucks, Handlebars, Liquid, Go templates and more.
+  djLint reads HTML and the template syntax inside it, with profiles for Django, Jinja, Twig, Nunjucks, Handlebars, Liquid, Go templates, Angular, Mustache, Tera and Askama.
 </p>
 
 <p align="center"><code>pip install djlint</code></p>
