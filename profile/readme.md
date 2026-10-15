@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://djlint.com"><img src="https://raw.githubusercontent.com/djlint/djLint/master/docs/src/static/img/icon.png" alt="djLint Logo" width="270"></a>
+  <a href="https://djlint.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/djlint/djLint/master/docs/src/static/img/logo-wide-dark.svg"><img src="https://raw.githubusercontent.com/djlint/djLint/master/docs/src/static/img/logo-wide-light.svg" alt="djLint Logo" width="300"></picture></a>
   <br>
 </h1>
 
@@ -19,11 +19,18 @@
   djLint reads HTML and the template syntax inside it, with profiles for Django, Jinja, Twig, Nunjucks, Handlebars, Liquid, Go templates, Angular, Mustache, Tera and Askama.
 </p>
 
-<p align="center"><code>pip install djlint</code></p>
+<p align="center">
+  <code>pip install djlint</code> or <code>uv tool install djlint</code> or <code>brew install djlint</code>
+</p>
+
+<p align="center">
+  <code>djlint . --lint</code> finds problems, <code>djlint . --reformat</code> fixes the formatting
+</p>
 
 <h4 align="center">
   <a href="https://djlint.com">Docs</a> •
   <a href="https://djlint.com/demo/">Try Online</a> •
   <a href="https://github.com/djlint/djLint">djLint</a> •
-  <a href="https://github.com/djlint/djlint-vscode">VS Code extension</a>
+  <a href="https://github.com/djlint/djlint-vscode">VS Code extension</a> •
+  <a href="https://djlint.com/docs/integrations/">pre-commit and other integrations</a>
 </h4>
