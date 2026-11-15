@@ -27,6 +27,10 @@
   <code>djlint . --lint</code> finds problems, <code>djlint . --reformat</code> fixes the formatting
 </p>
 
+<p align="center">
+  <code>djlint --lsp</code> runs the language server for Neovim, Helix, Sublime Text, JetBrains IDEs and Emacs
+</p>
+
 <h4 align="center">
   <a href="https://djlint.com">Docs</a> •
   <a href="https://djlint.com/demo/">Try Online</a> •
