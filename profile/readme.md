@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  djLint reads HTML and the template syntax inside it, with profiles for Django, Jinja, Twig, Nunjucks, Handlebars, Liquid, Go templates, Angular, Mustache, Tera and Askama.
+  djLint reads HTML and the template syntax inside it, with profiles for Django, Jinja, Twig, Nunjucks, Handlebars, Mustache, Liquid, Go templates, Angular, Tera, Askama and Mako.
 </p>
 
 <p align="center">
