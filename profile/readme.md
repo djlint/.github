@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <code>uv tool install djlint</code> or <code>pip install djlint</code>
+  <code>uv tool install djlint</code>, <code>pip install djlint</code> or <code>npm i -g djlint</code>
 </p>
 
 <p align="center">
